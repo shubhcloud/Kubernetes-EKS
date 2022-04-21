@@ -1,6 +1,7 @@
 # EKS Setup
 
-#Before Starting you must have the below Pre-Requisites
+# Before Starting you must have the below Pre-Requisites
+
 - Linux Admiistration knowledge is must
 - Ansible Automation/Administration Knowledge is must
 - AWS account should be created and activated.
