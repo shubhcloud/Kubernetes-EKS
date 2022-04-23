@@ -49,3 +49,11 @@ EOF
 ```
 yum install -y kubectl
 ```
+**Verify Kubectl version**
+```
+kubectl version --short --client
+```
+**Check create cluster --help to ensure everything working fine**
+```
+eksctl create cluster --help
+```
