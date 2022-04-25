@@ -57,3 +57,14 @@ kubectl version --short --client
 ```
 eksctl create cluster --help
 ```
+**Create EKS cluster**
+
+create the cluster by using YAML file you can download using wget command or directly execute using github link make sure to have same key pair in the YAML or else create you own and edit in YAML file.
+
+```
+eksctl create cluster -f eks-course.yaml
+```
+**Check all the nodes**
+```
+kubectl get nodes
+```
