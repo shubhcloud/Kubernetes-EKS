@@ -68,3 +68,19 @@ eksctl create cluster -f eks-course.yaml
 ```
 kubectl get nodes
 ```
+**If you are not able to view the nodes in your EKS Console then follow the below steps: **
+```
+kubectl edit configmap aws-auth -n kube-system
+```
+
+Add below line in the config file if you are logged in as a root user :
+```
+mapUsers: "- groups: \n  - system:masters\n  userarn: arn:aws:iam::xxxxxxxxxxxx:root\n"
+```
+
+Add below line in the config file if you are logged in as a root user :
+```
+mapUsers: "- groups: \n  - system:masters\n  userarn: arn:aws:iam::xxxxxxxxxxxx:user/shubh\n"
+```
+
+![image](https://user-images.githubusercontent.com/99954871/167911005-5c91f745-a74f-4816-a234-2dfcc6f5cba7.png)
