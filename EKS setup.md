@@ -68,7 +68,7 @@ eksctl create cluster -f eks-course.yaml
 ```
 kubectl get nodes
 ```
-**If you are not able to view the nodes in your EKS Console then follow the below steps: **
+**If you are not able to view the nodes in your EKS Console then follow the below steps:**
 ```
 kubectl edit configmap aws-auth -n kube-system
 ```
