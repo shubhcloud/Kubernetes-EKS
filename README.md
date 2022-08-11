@@ -24,8 +24,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 - 💬 Ask me about Any Solution Architecture Related.
 - 😄 Pronouns: you can call me as **Technology Smug**.
 - 🙏 I’m looking for more hands in this cloudnloud Tech Community initiatives.
-- 📫 How to reach me: shubhdadhich@cloudnloud.com.
-- 📫 How to reach me Only Whatsapp : +91-6377706369.
+- 📫 How to reach me: shubh.sd72@gmail.com.
 
 ### How to install and configure Jenkins in Rocky Linux :
 👇
