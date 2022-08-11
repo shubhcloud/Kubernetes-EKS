@@ -41,7 +41,7 @@ Linux,Cloud,DevOps,Docker,K8s,Seccurity,Solutions,Re-Engineering,Virtuvalization
 [![Watch the video](https://github.com/cloudnloud/Rockylinux/blob/main/Cloudnloud-Free-Trainings.png)](https://www.youtube.com/channel/cloudnloud)
 
 <h3 align="left">Connect with Me:</h3>
-<a href="https://www.linkedin.com/in/mounistack/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shubhcloud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cloudnloud" height="30" width="40" /></a>
 
 
 <h3 align="left">Connect with Us to know your talents:</h3>
