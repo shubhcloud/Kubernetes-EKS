@@ -20,7 +20,7 @@ https://github.com/weaveworks/eksctl/releases
 
 **Execute Below command**
 ```
-curl --silent --location "https://github.com/weaveworks/eksctl/releases/download/v0.93.0/eksctl_Linux_amd64.tar.gz" | tar xz -C /tmp 
+curl --silent --location "https://github.com/weaveworks/eksctl/releases/download/v0.114.0/eksctl_Linux_amd64.tar.gz" | tar xz -C /tmp 
 ```
 **Move eksctl to bin**
 ```
